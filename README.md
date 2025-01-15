@@ -13,4 +13,4 @@ I'm 18 years old, and I'm studying System's Development at the Colégio Técnico
 <hr>
 
 ### Technologies
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cs,python,mysql,java,hibernate,spring,git,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,c,cs,python,mysql,java,hibernate,spring,git,figma)](https://skillicons.dev)
